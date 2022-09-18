@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29578ce9-c428-4e2b-adb9-ab8279b1ba02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TasksOfIncreasedComplexity.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TasksOfIncreasedComplexity.java" afterDir="false" />
-    </list>
+    <list default="true" id="29578ce9-c428-4e2b-adb9-ab8279b1ba02" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,11 +53,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663488566199</updated>
-      <workItem from="1663488574991" duration="1923000" />
+      <workItem from="1663488574991" duration="2323000" />
     </task>
+    <task id="LOCAL-00001" summary="Задачи повышенной сложности">
+      <created>1663491072255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663491072255</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задачи повышенной сложности" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачи повышенной сложности" />
   </component>
 </project>
